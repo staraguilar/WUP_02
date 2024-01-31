@@ -49,7 +49,7 @@ According to the box plot c52  is higher up than c39.
 ```{r}
 favstats(VitC~Cult,data=veggy)
 ```
-The comparison between the two data analysis from the box plot c39 and c52 shows the exact median for both and shows additional data such as height from the box plot which is being represented in Q3 and Q1 
+The comparison between the two data analysis from the box plot c39 and c52 shows the exact median for both and shows additional data such as height from the box plot which is being represented in Q3 and Q1. They show statistical differences when the data point are being compared.
   
 ## Inferential Results
 
