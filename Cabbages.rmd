@@ -62,3 +62,5 @@ The data point collected is 0.00000003405 showing that it is extremely small and
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+we used the necessary tools in order to show the statistical differences from the data point in veggy. We used a box plot to visually represent what is happening with the data points and give a visual representative of what is happening. Secondly we used a numerical description in order to show numerically the statistical differences through the comparison of the data being shown in the box plot.Lastly a t-test to show how statistically different the two points actually were to understand that they had a 95% difference from each other and therefore was the reason for the different data points in the box plot and numerical data. 
